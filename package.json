@@ -1,5 +1,5 @@
 {
-  "name": "dice-api",
+  "name": "backgammon-dice",
   "version": "1.0.0",
   "description": "Transparent dice rolling API with audit trail",
   "main": "dist/index.js",

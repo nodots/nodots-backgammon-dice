@@ -23,7 +23,7 @@ A transparent, auditable, and cryptographically secure dice rolling API designed
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd nodots-backgammon-dice
+cd dice
 
 # Install dependencies
 npm install
